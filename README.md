@@ -14,6 +14,16 @@ O projeto foi pensado para uso em condomínios, portarias ou estacionamentos que
 - registrar acessos e negar veículos não cadastrados,
 - integrar com hardware Arduino para abrir/fechar cancelas.
 
+## Equipe
+
+| Integrante | Responsabilidades |
+|---|---|
+| [Lucas Gabriel Teixeira da Silva](https://github.com/lucas-labgit) | Front-end do painel em React, montagem do protótipo físico (Arduino e maquete da cancela) e apoio no backend em FastAPI |
+| [Luiz Wessel](https://github.com/Wessel2007) | Pipeline de detecção e leitura de placas (YOLO + EasyOCR), integração com Arduino e Supabase e deploy |
+| [Arthur Nicolas Oliveira](https://github.com/arthur04112006) | Ajustes no front-end (edição de cadastros, seletor de câmera, autorizações temporárias) e documentação |
+| Kauan | Integrante da equipe |
+| [Roger Oliveira](https://github.com/rcoliveirasb) | Integrante da equipe |
+
 ## Estrutura do repositório
 
 - `package.json` - scripts do projeto e dependências do frontend.
